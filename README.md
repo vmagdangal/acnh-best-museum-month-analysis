@@ -1,4 +1,4 @@
-# Which month is the most productive for museum donations and player income in Animal Crossing: New Horizons?
+#Which Month Benefits Both the Museum and Player the Most in *Animal Crossing: New Horizons*?
 [Google Colab Notebook](https://colab.research.google.com/github/vmagdangal/acnh-best-museum-month-analysis/blob/main/ACNH_Museum_Months.ipynb)
 
 ## Overview
