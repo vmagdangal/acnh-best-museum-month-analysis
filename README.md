@@ -7,4 +7,4 @@ This is a Google Colab analysis notebook, where this dataset from [Kaggle](https
 ## Usage
 Click into the `ACNH_Museum_Months.ipynb` file in the repository (or at the above link), and you will be able to both view the notebook or navigate into it.
 
-If running the notebook, make sure to first upload `fish.csv`, `bugs.csv`, and `sea_creatures.csv` into the notebook at the commented code cell under the "Fetching Data" section.
+If running the notebook, make sure to first upload `fish.csv`, `bugs.csv`, and `sea_creatures.csv` from `ACNH_Museum_Month_CSVs.zip` into the notebook at the commented code cell under the "Fetching Data" section.
